@@ -1,5 +1,3 @@
-
-build_environment : Ubuntu1304
 rvm:
   - 1.9.2
 env:
